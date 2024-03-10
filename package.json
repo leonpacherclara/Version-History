@@ -1,0 +1,26 @@
+{
+"name": "version-historywomenshiguanjun",
+"version": "1.0.0",
+"description": "Tracking the project's version history provides insights into its evolution, bug fixes, and feature additions over time.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/leonpacherclara/Version-History.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "leonpacherclara",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
